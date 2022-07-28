@@ -1,14 +1,14 @@
-<img style="width:100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQFIV_2YqIGRvQ/profile-displaybackgroundimage-shrink_350_1400/0/1658969734586?e=1664409600&v=beta&t=fhZtMaffMcX9cHsfLT9J83J8Q3hTzrSkIas2NyU_Wyc" />
+<img style="width:100%" height="180px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFIV_2YqIGRvQ/profile-displaybackgroundimage-shrink_350_1400/0/1658969734586?e=1664409600&v=beta&t=fhZtMaffMcX9cHsfLT9J83J8Q3hTzrSkIas2NyU_Wyc" />
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate full stack developer and tutor from India</h3>
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ApnaThikana](https://ashu.pythonanywhere.com/)
+- 🔭 I’m currently working at [CodeYoung](https://www.codeyoung.com/)
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://theashishkumar.com/](https://theashishkumar.com/)
+- 👨‍💻 To hire me for my services visit [https://theashishkumar.com/](https://theashishkumar.com/)
 
 - 💬 Ask me about **Full stack web development**
 
