@@ -1,4 +1,4 @@
-<img style="width:70%"  src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png" />
+<img style="width:70%"  src="https://media.licdn.com/dms/image/C4D16AQFIV_2YqIGRvQ/profile-displaybackgroundimage-shrink_350_1400/0/1658969734586?e=1680739200&v=beta&t=zs7wlfOtG9obZmw_rbg1I6x_qYe7ZKjEnCTB2NgZOGI" />
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate full stack developer and tutor from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" />
