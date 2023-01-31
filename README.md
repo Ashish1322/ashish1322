@@ -1,4 +1,4 @@
-<img style="width:100%"  src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg" />
+<img style="width:100%"  src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.png" />
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate full stack developer and tutor from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" />
