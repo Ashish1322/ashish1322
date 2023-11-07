@@ -1,14 +1,14 @@
-<img style="width:100%"  src="https://media.licdn.com/dms/image/C4D16AQFIV_2YqIGRvQ/profile-displaybackgroundimage-shrink_350_1400/0/1658969734586?e=1680739200&v=beta&t=zs7wlfOtG9obZmw_rbg1I6x_qYe7ZKjEnCTB2NgZOGI" />
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">A passionate full stack developer and tutor from India</h3>
+<h3 align="center">A Passionate Software Developer and Mentor from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [CodeYoung](https://www.codeyoung.com/)
+- 🔭 I’m currently working at [FWC Inc.](https://fwc.co.in/)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 To hire me for my services visit [https://theashishkumar.com/](https://theashishkumar.com/)
+- 👨‍💻 To hire me for my services visit [https://www.devashishk.in/](https://www.devashishk.in/)
 
 - 💬 Ask me about **Full stack web development**
 
@@ -20,11 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/ashish1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish1322" height="30" width="40" /></a>
-<a href="https://instagram.com/ak.react" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak.react" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/a_m2002nov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_m2002nov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5378fp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5378fp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CommitToCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashish1322" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/am2002nov/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="am2002nov/profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user5378fp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5378fp" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
