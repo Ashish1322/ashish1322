@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently working on **Agentic Bots**
+- 🌱 I’m currently working on **Agentic Bots** at **24[7].ai** as **SDE-1**
 
 - 👨‍💻 Have a look at my Portfolio [https://portfolio-git-main-ashish1322s-projects.vercel.app/)
 
