@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working on **Agentic Bots**
 
-- 👨‍💻 Have a look at my Portfolio [https://www.devashishk.in/](https://www.devashishk.in/)
+- 👨‍💻 Have a look at my Portfolio [https://portfolio-git-main-ashish1322s-projects.vercel.app/)
 
 - 📝 I regularly upload videos on [https://www.youtube.com/@CommitToCode](https://www.youtube.com/@CommitToCode)
 
-- 💬 Ask me about **Full Stack Web development**
+- 💬 Ask me about **Full Stack Web development and Autogen**
 
 - 📫 How to reach me **a.m2002nov@gmail.com**
 
